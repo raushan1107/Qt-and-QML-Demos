@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>jslib.js</file>
+        <file>mygraph.qml</file>
+        <file>about.qml</file>
+    </qresource>
+</RCC>
