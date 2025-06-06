@@ -1,0 +1,6 @@
+module WidgetWindowsInQtQuickApp
+typeinfo appWidgetWindowsInQtQuickApp.qmltypes
+prefer :/qt/qml/WidgetWindowsInQtQuickApp/
+Main 1.0 Main.qml
+FontControlsQmlForm 1.0 FontControlsQmlForm.qml
+
